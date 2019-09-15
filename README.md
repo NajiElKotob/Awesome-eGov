@@ -1,8 +1,12 @@
 # Awesome-eGov
 (DRAFT)
 
-## UN E-Government Survey
+## Global Indicators
 * [UN E-Government Survey 2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018)
+* [Government AI Readiness Index (GAIRI)](https://www.oxfordinsights.com/ai-readiness2019)
+* [The QoG Institute](https://qog.pol.gu.se/)
+* [WJP Open Government Index Methodology](https://worldjusticeproject.org/our-work/research-and-data/wjp-open-government-index/wjp-open-government-index-methodology)
+* [The Global Open Data Index (GODI)](https://index.okfn.org)
 
 
 # Cases
