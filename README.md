@@ -1,5 +1,5 @@
 # Awesome eGov
-(DRAFT)
+<> BETA <>
 
 ## Global Indicators
 * [UN E-Government Survey 2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018)
@@ -12,7 +12,9 @@
 ## Conferences
 * [eDem and eGov](https://edem-egov.org/) - International Conference on eDemocracy & eGovernment 
 
-# Cases
+## Networks
+* [Global Compact Network Lebanon (GCNL)](https://www.globalcompact-lebanon.com/)
+
 
 ## Estonia
 * [Official Website](https://e-estonia.com/) - e-estonia.com
