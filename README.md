@@ -13,8 +13,8 @@
 * [eDem and eGov](https://edem-egov.org/) - International Conference on eDemocracy & eGovernment 
 
 ## e-Gov Websites
-* [Lebanon](http://www.dawlati.gov.lb) - www.dawlati.gov.lb
-* [United Arab Emirates](http://www.government.ae) - www.government.ae
+* [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
+* [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
 
 ## References and Guides
