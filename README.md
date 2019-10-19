@@ -1,5 +1,5 @@
 # Awesome eGov
-<> BETA <>
+<> Preview <>
 
 ## Global Indicators
 * [UN E-Government Survey 2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018)
@@ -13,6 +13,9 @@
 * [eDem and eGov](https://edem-egov.org/) - International Conference on eDemocracy & eGovernment 
 
 ## e-Gov Websites
+* [Afghanistan](http://president.gov.af/en) - president.gov.af
+* [Albania](http://e-albania.al) - e-albania.al
+* [Algeria](http://www.el-mouradia.dz) - el-mouradia.dz
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
