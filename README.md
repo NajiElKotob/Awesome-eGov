@@ -13,7 +13,7 @@
 * [eDem and eGov](https://edem-egov.org/) - International Conference on eDemocracy & eGovernment 
 
 ## Books
-* [E-Government: Implementation, Adoption and Synthesis in Developing Countries](https://www.amazon.com/Government-Implementation-Synthesis-Developing-Information-ebook/dp/B0138MJV74)
+* [E-Government: Implementation, Adoption and Synthesis in Developing Countries](https://www.amazon.com/Government-Implementation-Synthesis-Developing-Information-ebook/dp/B0138MJV74) - by Kelvin J. Bwalya , Stephen M. Mutula (2014)
 
 ## e-Gov Websites
 * [Afghanistan](http://president.gov.af/en) - president.gov.af
