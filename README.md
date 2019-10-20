@@ -16,6 +16,9 @@
 * [Afghanistan](http://president.gov.af/en) - president.gov.af
 * [Albania](http://e-albania.al) - e-albania.al
 * [Algeria](http://www.el-mouradia.dz) - el-mouradia.dz
+* [Andorra](https://www.govern.ad/) - govern.ad
+* [Angola](http://www.governo.gov.ao/) - governo.gov.ao
+  * [Portal Cidadao](http://www.cidadao.gov.ao/) - cidadao.gov.ao
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
