@@ -26,7 +26,7 @@
 * [Andorra](https://www.govern.ad/) - govern.ad
 * [Angola](http://www.governo.gov.ao/) - governo.gov.ao
   * [Portal Cidadao](http://www.cidadao.gov.ao/) - cidadao.gov.ao
-* [Antigua and Barbuda](https://ab.gov.ag/) - ab.gov.ag]() - https://www.argentina.gob.ar/
+* [Antigua and Barbuda](https://ab.gov.ag/) - ab.gov.ag
 * [Argentina](https://www.argentina.gob.ar/) - argentina.gob.ar
   * [Datos Argentina](https://datos.gob.ar/) - datos.gob.ar
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
