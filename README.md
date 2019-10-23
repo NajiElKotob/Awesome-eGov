@@ -29,6 +29,12 @@
 * [Antigua and Barbuda](https://ab.gov.ag/) - ab.gov.ag
 * [Argentina](https://www.argentina.gob.ar/) - argentina.gob.ar
   * [Datos Argentina](https://datos.gob.ar/) - datos.gob.ar
+* [Armenia](http://www.gov.am) - gov.am
+* [Australia](http://australia.gov.au) - australia.gov.au
+  * [Australia's public data](	https://www.data.gov.au/) - data.gov.au
+* [Austria](https://www.digitales.oesterreich.gv.at) - digitales.oesterreich.gv.at
+  * [Austria's Open Data](https://www.data.gv.at/) - data.gv.at
+* [Azerbaijan](https://www.e-gov.az) - e-gov.az
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
