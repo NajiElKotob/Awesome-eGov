@@ -12,6 +12,10 @@
 * [The Open Budget Survey](https://www.internationalbudget.org/open-budget-survey/) - The Open Budget Survey assesses budget transparency based on the amount and timeliness of budget information governments are making publicly available. Each country is given a score between 0 and 100 that determines its ranking on the Open Budget Index.
 
 ## Conferences and References 
+
+### Data Visualization
+* [QoG Interactive Report](http://j.mp/QoG-NajiElKotob)
+
 ### Conferences
 * [eDem and eGov](https://edem-egov.org/) - International Conference on eDemocracy & eGovernment 
 
