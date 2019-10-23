@@ -2,11 +2,13 @@
 <> Preview <>
 
 ## Global Indicators
-* [UN E-Government Survey 2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018)
-* [Government AI Readiness Index (GAIRI)](https://www.oxfordinsights.com/ai-readiness2019)
+* [UN E-Government Survey 2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) - EGDI
+* [Ease of Doing Business](https://www.doingbusiness.org/en/data/doing-business-score) - EoDB
+* [Corruption Perceptions Index](https://www.transparency.org/research/cpi) - CPI
+* [Government AI Readiness Index](https://www.oxfordinsights.com/ai-readiness2019) - GAIRI
 * [The QoG Institute](https://qog.pol.gu.se/)
 * [WJP Open Government Index Methodology](https://worldjusticeproject.org/our-work/research-and-data/wjp-open-government-index/wjp-open-government-index-methodology)
-* [The Global Open Data Index (GODI)](https://index.okfn.org)
+* [The Global Open Data Index (GODI)](https://index.okfn.org) - GODI
 * [The Open Budget Survey](https://www.internationalbudget.org/open-budget-survey/) - The Open Budget Survey assesses budget transparency based on the amount and timeliness of budget information governments are making publicly available. Each country is given a score between 0 and 100 that determines its ranking on the Open Budget Index.
 
 ## Conferences and References 
