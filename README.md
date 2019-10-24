@@ -41,6 +41,7 @@
 * [Austria](https://www.digitales.oesterreich.gv.at) - digitales.oesterreich.gv.at
   * [Austria's Open Data](https://www.data.gv.at/) - data.gv.at
 * [Azerbaijan](https://www.e-gov.az) - e-gov.az
+* [Bahamas](http://www.bahamas.gov.bs) - bahamas.gov.bs
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
