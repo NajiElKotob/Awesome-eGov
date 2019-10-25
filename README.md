@@ -26,6 +26,9 @@
 * [E-Government: Implementation, Adoption and Synthesis in Developing Countries](https://www.amazon.com/Government-Implementation-Synthesis-Developing-Information-ebook/dp/B0138MJV74) - by Kelvin J. Bwalya , Stephen M. Mutula (2014)
 * [Managing E-Government Projects: Concepts, Issues, and Best Practices](https://www.amazon.com/Managing-Government-Projects-Concepts-Practices/dp/1466600861) - by Stephen Kwamena Aikins (2012)
 
+### Articles
+* [How Governments Can Use Intelligent Systems To Reflect The Needs Of Citizens](https://ferosevr.com/governments-can-use-intelligent-systems-reflect-needs-citizens-2/)
+
 ## e-Gov Websites
 * [Afghanistan](http://president.gov.af/en) - president.gov.af
 * [Albania](http://e-albania.al) - e-albania.al
