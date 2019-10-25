@@ -6,7 +6,6 @@
 * [Ease of Doing Business](https://www.doingbusiness.org/en/data/doing-business-score) - EoDB
 * [Corruption Perceptions Index](https://www.transparency.org/research/cpi) - CPI
 * [Government AI Readiness Index](https://www.oxfordinsights.com/ai-readiness2019) - GAIRI
-* [The QoG Institute](https://qog.pol.gu.se/)
 * [WJP Open Government Index Methodology](https://worldjusticeproject.org/our-work/research-and-data/wjp-open-government-index/wjp-open-government-index-methodology)
 * [The Global Open Data Index (GODI)](https://index.okfn.org) - GODI
 * [Human Development Index](http://hdr.undp.org/en/content/human-development-index-hdi) - HDI
@@ -22,6 +21,7 @@
 
 ### References
 * [GovInsider](https://govinsider.asia)
+* [The QoG Institute](https://qog.pol.gu.se/)
 
 ### Books
 * [E-Government: Implementation, Adoption and Synthesis in Developing Countries](https://www.amazon.com/Government-Implementation-Synthesis-Developing-Information-ebook/dp/B0138MJV74) - by Kelvin J. Bwalya , Stephen M. Mutula (2014)
