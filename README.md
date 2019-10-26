@@ -1,5 +1,5 @@
-# Awesome eGov
-<> Preview <>
+# Awesome e-Government
+-- Updating...
 
 ## Global Indicators
 * [UN E-Government Survey 2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) - EGDI
@@ -14,7 +14,8 @@
 ## Conferences and References 
 
 ### Data Visualization
-* [QoG Interactive Report](http://j.mp/QoG-NajiElKotob)
+* [QoG Interactive Report](http://j.mp/QoG-NajiElKotob) - Naji El Kotob
+* [Visualizing Corruption Around the World](https://www.visualcapitalist.com/visualizing-corruption-around-the-world/) - Jeff Desjardins
 
 ### Conferences
 * [eDem and eGov](https://edem-egov.org/) - International Conference on eDemocracy & eGovernment 
