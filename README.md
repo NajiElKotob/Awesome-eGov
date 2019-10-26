@@ -24,6 +24,7 @@
 * [The QoG Institute](https://qog.pol.gu.se/)
 
 ### Books
+* [QoG EU Regional Codebook](https://www.qogdata.pol.gu.se/data/qog_eureg_sep16.pdf) - QoG Institute (2016)
 * [E-Government: Implementation, Adoption and Synthesis in Developing Countries](https://www.amazon.com/Government-Implementation-Synthesis-Developing-Information-ebook/dp/B0138MJV74) - by Kelvin J. Bwalya , Stephen M. Mutula (2014)
 * [Managing E-Government Projects: Concepts, Issues, and Best Practices](https://www.amazon.com/Managing-Government-Projects-Concepts-Practices/dp/1466600861) - by Stephen Kwamena Aikins (2012)
 * [e-Governance in Small States](https://books.thecommonwealth.org/e-governance-small-states-paperback) - Anthony Ming, Omer Awan, Naveed Somani (2013)
