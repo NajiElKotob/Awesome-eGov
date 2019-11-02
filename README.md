@@ -53,6 +53,9 @@
 * [Bahamas](http://www.bahamas.gov.bs) - bahamas.gov.bs
 * [Bahrain](https://www.bahrain.bh) - bahrain.bh
   * [Bahrain's Open Data](http://www.data.gov.bh/) - data.gov.bh
+* [Bangladesh](http://www.bangladesh.gov.bd) - bangladesh.gov.bd
+* [Barbados](https://www.gov.bb) - gov.bb
+  * [Gov Information Service](http://gisbarbados.gov.bb/) - gisbarbados.gov.bb
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
