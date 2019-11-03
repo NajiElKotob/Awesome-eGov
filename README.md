@@ -56,6 +56,13 @@
 * [Bangladesh](http://www.bangladesh.gov.bd) - bangladesh.gov.bd
 * [Barbados](https://www.gov.bb) - gov.bb
   * [Gov Information Service](http://gisbarbados.gov.bb/) - gisbarbados.gov.bb
+* [Belarus](https://portal.gov.by) - portal.gov.by
+* [Belgium](http://www.belgium.be) - belgium.be
+  * [Belgium's Open Data](	http://data.gov.be) - data.gov.be
+* [Belize](http://www.belize.gov.bz) - belize.gov.bz
+* [Benin](http://gouv.bj) - gouv.bj
+* [Bhutan](http://www.bhutan.gov.bt) - bhutan.gov.bt
+* [Bolivia](https://bolivia.gob.bo) - bolivia.gob.bo
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
