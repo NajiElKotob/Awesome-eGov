@@ -63,6 +63,8 @@
 * [Benin](http://gouv.bj) - gouv.bj
 * [Bhutan](http://www.bhutan.gov.bt) - bhutan.gov.bt
 * [Bolivia](https://bolivia.gob.bo) - bolivia.gob.bo
+* [Bosnia and Herzegovina](http://www.fbihvlada.gov.ba) - fbihvlada.gov.ba
+* [Botswana](http://www.gov.bw) - gov.bw
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
