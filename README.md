@@ -69,6 +69,11 @@
   * [Brazil's Open Data](http://dados.gov.br) - dados.gov.br
   * [Brazil's Transparency Portal](http://transparencia.gov.br) - transparencia.gov.br
   * [Brazil's Open Government](http://www.participa.br/profile/governoaberto) - participa.br
+* [Brunei Darussalam](http://www.brunei.gov.bn) - brunei.gov.bn
+* [Bulgaria](https://egov.bg) - egov.bg
+  * [Bulgaria's Open Data](https://opendata.government.bg) - opendata.government.bg
+* [Burkina Faso](	http://www.gouvernement.gov.bf) - 	gouvernement.gov.bf
+  * [Burkina Faso's Open Data](http://data.gov.bf) - data.gov.bf
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
