@@ -74,6 +74,9 @@
   * [Bulgaria's Open Data](https://opendata.government.bg) - opendata.government.bg
 * [Burkina Faso](	http://www.gouvernement.gov.bf) - 	gouvernement.gov.bf
   * [Burkina Faso's Open Data](http://data.gov.bf) - data.gov.bf
+* [Burundi](http://www.burundi.gov.bi) - burundi.gov.bi
+* [Cambodia](http://www.cdc-crdb.gov.kh) - cdc-crdb.gov.kh
+* [Cameroon](	http://www.spm.gov.cm) - spm.gov.cm
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
