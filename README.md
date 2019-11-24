@@ -79,6 +79,8 @@
 * [Burundi](http://www.burundi.gov.bi) - burundi.gov.bi
 * [Cambodia](http://www.cdc-crdb.gov.kh) - cdc-crdb.gov.kh
 * [Cameroon](	http://www.spm.gov.cm) - spm.gov.cm
+* [Canada](http://www.canada.gc.ca) - canada.gc.ca
+  * [Canada's Open Data](http://open.canada.ca) - open.canada.ca
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
