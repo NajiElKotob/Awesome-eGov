@@ -31,7 +31,7 @@
 * [E-Government: Implementation, Adoption and Synthesis in Developing Countries](https://www.amazon.com/Government-Implementation-Synthesis-Developing-Information-ebook/dp/B0138MJV74) - by Kelvin J. Bwalya , Stephen M. Mutula (2014)
 * [e-Governance in Small States](https://books.thecommonwealth.org/e-governance-small-states-paperback) - Anthony Ming, Omer Awan, Naveed Somani (2013)
 * [Managing E-Government Projects: Concepts, Issues, and Best Practices](https://www.amazon.com/Managing-Government-Projects-Concepts-Practices/dp/1466600861) - by Stephen Kwamena Aikins (2012)
-
+* [The Quality of Government: Corruption, Social Trust, and Inequality in International Perspective](https://onlinelibrary.wiley.com/doi/10.1111/gove.12146) - Bo Rothstein, University of Chicago Press (2011)
 
 ### Articles
 * [How Governments Can Use Intelligent Systems To Reflect The Needs Of Citizens](https://ferosevr.com/governments-can-use-intelligent-systems-reflect-needs-citizens-2/)
