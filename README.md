@@ -81,6 +81,9 @@
 * [Cameroon](	http://www.spm.gov.cm) - spm.gov.cm
 * [Canada](http://www.canada.gc.ca) - canada.gc.ca
   * [Canada's Open Data](http://open.canada.ca) - open.canada.ca
+* [Cabo Verde](https://www.governo.cv) - governo.cv
+  * [Porton Dinosilhas](https://portondinosilhas.gov.cv) - portondinosilhas.gov.cv
+* [Central African Republic](http://primature.govcf.org) - primature.govcf.org
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
