@@ -84,6 +84,10 @@
 * [Cabo Verde](https://www.governo.cv) - governo.cv
   * [Porton Dinosilhas](https://portondinosilhas.gov.cv) - portondinosilhas.gov.cv
 * [Central African Republic](http://primature.govcf.org) - primature.govcf.org
+* [Chad](http://www.gouvernement.td) - gouvernement.td
+* [Chile](http://www.gob.cl) - gob.cl
+  * [Gobierno Abierto Chile](http://www.gobiernoabierto.gob.cl) - gobiernoabierto.gob.cl
+  * [Portal Transparencia](http://www.gobiernotransparentechile.cl) - gobiernotransparentechile.cl
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
