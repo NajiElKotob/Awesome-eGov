@@ -88,6 +88,10 @@
 * [Chile](http://www.gob.cl) - gob.cl
   * [Gobierno Abierto Chile](http://www.gobiernoabierto.gob.cl) - gobiernoabierto.gob.cl
   * [Portal Transparencia](http://www.gobiernotransparentechile.cl) - gobiernotransparentechile.cl
+* [China](http://www.gov.cn) - gov.cn
+* [Colombia](http://estrategia.gobiernoenlinea.gov.co) - gobiernoenlinea.gov.co
+  * [Colombia's Open Data](http://www.datos.gov.co) - datos.gov.co
+* [Comoros](https://gouvernement.km) - gouvernement.km
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
