@@ -1,5 +1,5 @@
 # Awesome e-Government
--- Updating...
+{Work in Process, stay tuned}
 
 ## Global Indicators
 * [UN E-Government Survey 2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) - EGDI
@@ -96,6 +96,19 @@
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
 
+## Systems and Infrastructure
+* [The National Information Infrastructure (NII)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416472/National_Infrastructure_Implementation.pdf)
+* [Government Services Information Infrastructure (GSII)](https://www.osti.gov/biblio/147748-government-services-information-infrastructure-management)
+* [Smart City](https://internetofthingsagenda.techtarget.com/definition/smart-city)
+* [Call Detail Record (CDR)](https://en.wikipedia.org/wiki/Call_detail_record) 
+* [Deep packet inspection (DPI)](https://en.wikipedia.org/wiki/Deep_packet_inspection)
+* [National identification number](https://en.wikipedia.org/wiki/National_identification_number)
+* [Personal Identifiers (PID)](https://en.wikipedia.org/wiki/Personal_identifier)
+* [Taxpayer Identification Number](https://en.wikipedia.org/wiki/Taxpayer_Identification_Number)
+* [Biometrics](https://www.gemalto.com/govt/inspired/biometrics)
+* [The 2018 Government E-Payments Adoption Ranking (Report)](https://usa.visa.com/content/dam/VCOM/global/visa-everywhere/documents/government-e-payment-adoption-ranking-study-2018.pdf) - VISA
+
+
 ## References and Guides
 
 ### Estonia
@@ -111,3 +124,7 @@
 
 ### Lebanon
 * [Global Compact Network Lebanon (GCNL)](https://www.globalcompact-lebanon.com/)
+
+
+
+
