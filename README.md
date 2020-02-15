@@ -100,6 +100,7 @@
 * [The National Information Infrastructure (NII)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416472/National_Infrastructure_Implementation.pdf)
 * [Government Services Information Infrastructure (GSII)](https://www.osti.gov/biblio/147748-government-services-information-infrastructure-management)
 * [Smart City](https://internetofthingsagenda.techtarget.com/definition/smart-city)
+* National e-Souk
 * [Call Detail Record (CDR)](https://en.wikipedia.org/wiki/Call_detail_record) 
 * [Deep packet inspection (DPI)](https://en.wikipedia.org/wiki/Deep_packet_inspection)
 * [National identification number](https://en.wikipedia.org/wiki/National_identification_number)
@@ -107,6 +108,13 @@
 * [Taxpayer Identification Number](https://en.wikipedia.org/wiki/Taxpayer_Identification_Number)
 * [Biometrics](https://www.gemalto.com/govt/inspired/biometrics)
 * [The 2018 Government E-Payments Adoption Ranking (Report)](https://usa.visa.com/content/dam/VCOM/global/visa-everywhere/documents/government-e-payment-adoption-ranking-study-2018.pdf) - VISA
+* [Automatic number-plate recognition (ANPR)](https://en.wikipedia.org/wiki/Automatic_number-plate_recognition)
+* [Addresses standardisation](https://en.wikipedia.org/wiki/Address)
+* Government Anti-Fraud
+* Gognitive Services
+* National Data Center (NDC)
+* Government's cyber security
+
 
 
 ## References and Guides
