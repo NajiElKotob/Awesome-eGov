@@ -12,6 +12,14 @@
 * [OECD](http://www.oecd.org/) - Organisation for Economic Co-operation and Development
 * [The Open Budget Survey](https://www.internationalbudget.org/open-budget-survey/) - The Open Budget Survey assesses budget transparency based on the amount and timeliness of budget information governments are making publicly available. Each country is given a score between 0 and 100 that determines its ranking on the Open Budget Index.
 
+-----
+
+## International Organizations
+### Financial, trade, and customs organizations
+* [International Monetary Fund (IMF)](https://www.imf.org/external/index.htm)
+
+
+-----
 
 ## Conferences and References 
 
@@ -35,6 +43,8 @@
 
 ### Articles
 * [How Governments Can Use Intelligent Systems To Reflect The Needs Of Citizens](https://ferosevr.com/governments-can-use-intelligent-systems-reflect-needs-citizens-2/)
+
+-----
 
 ## e-Gov Websites
 * [Afghanistan](http://president.gov.af/en) - president.gov.af
@@ -96,6 +106,8 @@
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
 
+-----
+
 ## Systems and Infrastructure
 * [The National Information Infrastructure (NII)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416472/National_Infrastructure_Implementation.pdf)
 * [Government Services Information Infrastructure (GSII)](https://www.osti.gov/biblio/147748-government-services-information-infrastructure-management)
@@ -116,7 +128,7 @@
 * Government's cyber security
 
 
-
+-----
 ## References and Guides
 
 ### Estonia
