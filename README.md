@@ -17,7 +17,8 @@
 ## International Organizations
 ### Financial, trade, and customs organizations
 * [International Monetary Fund (IMF)](https://www.imf.org/external/index.htm)
-
+* [World Customs Organization (WCO)](http://www.wcoomd.org/)
+* [World Trade Organization (WTO)](https://www.wto.org/)
 
 -----
 
