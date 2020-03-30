@@ -1,5 +1,5 @@
 # Awesome e-Government
-{Work in Process, stay tuned}
+
 
 ## Global Indicators
 * [UN E-Government Survey 2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) - EGDI
@@ -108,6 +108,8 @@
 * [Lebanon](http://www.dawlati.gov.lb) - dawlati.gov.lb
 * [United Arab Emirates](http://www.government.ae) - government.ae
   * [Bayanat](https://opendata.fcsa.gov.ae) - Open data for public use.
+
+{Work in Process, stay tuned}
 
 -----
 
