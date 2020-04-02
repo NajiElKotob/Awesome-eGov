@@ -13,6 +13,7 @@
 * [ITU ICT Development Index](https://www.itu.int) - ITU (International Telecommunication Union), the United Nations specialized agency for information and communication technologies (ICTs), is recognized around the globe as the leading provider of timely and comprehensive telecommunication/ICT statistics and trends.
 * [The Open Budget Survey](https://www.internationalbudget.org/open-budget-survey/) - The Open Budget Survey assesses budget transparency based on the amount and timeliness of budget information governments are making publicly available. Each country is given a score between 0 and 100 that determines its ranking on the Open Budget Index.
 * [Higher Education Price Index (HEPI)](https://www.commonfund.org/)
+* [Speedtest Global Index](https://www.speedtest.net/global-index) - Ranking mobile and fixed broadband speeds from around the world on a monthly basis.
 
 -----
 
