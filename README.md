@@ -14,6 +14,7 @@
 * [The Open Budget Survey](https://www.internationalbudget.org/open-budget-survey/) - The Open Budget Survey assesses budget transparency based on the amount and timeliness of budget information governments are making publicly available. Each country is given a score between 0 and 100 that determines its ranking on the Open Budget Index.
 * [Higher Education Price Index (HEPI)](https://www.commonfund.org/)
 * [Speedtest Global Index](https://www.speedtest.net/global-index) - Ranking mobile and fixed broadband speeds from around the world on a monthly basis.
+* [The Inclusive Development Index 2018](https://www.weforum.org/reports/the-inclusive-development-index-2018) - World Economic Forum
 
 -----
 
