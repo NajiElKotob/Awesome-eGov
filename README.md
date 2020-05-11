@@ -35,9 +35,10 @@
 ### Conferences
 * [eDem and eGov](https://edem-egov.org/) - International Conference on eDemocracy & eGovernment 
 
-### References
-* [GovInsider](https://govinsider.asia)
-* [The QoG Institute](https://qog.pol.gu.se/)
+### References and Forums
+* [GovInsider](https://govinsider.asia) - govinsider.asia
+* [The QoG Institute](https://qog.pol.gu.se/) - qog.pol.gu.se
+* [Internet Governance Forum (IGF)](https://www.intgovforum.org) - intgovforum.org
 
 ### Books
 * [QoG EU Regional Codebook](https://www.qogdata.pol.gu.se/data/qog_eureg_sep16.pdf) - QoG Institute (2016)
