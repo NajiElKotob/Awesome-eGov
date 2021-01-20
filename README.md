@@ -148,6 +148,7 @@
 * [How a tiny country bordering Russia became one of the most tech-savvy societies in the world](https://www.cnbc.com/2019/02/08/how-estonia-became-a-digital-society.html)
 * isikukood 
   * [Stuff around Estonian ID (Eesti isikukood), scripts in Python](https://github.com/ToomasMolder/isikukood)
+  * [Check Digit Calculator](https://www.pangaliit.ee/settlements-and-standards/reference-number-of-the-invoice/check-digit-calculator-of-domestic-account-number) 
   
 
 ### UK
