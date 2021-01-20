@@ -146,6 +146,9 @@
 * [Welcome to e-Estonia, the world's first digital nation!](https://www.youtube.com/watch?v=sh7W3kudseg) - 90%+ of government services available online.
 * [Find out everything you want to know about e-Residency](https://learn.e-resident.gov.ee/hc/en-us)
 * [How a tiny country bordering Russia became one of the most tech-savvy societies in the world](https://www.cnbc.com/2019/02/08/how-estonia-became-a-digital-society.html)
+* isikukood 
+  * [Stuff around Estonian ID (Eesti isikukood), scripts in Python](https://github.com/ToomasMolder/isikukood)
+  
 
 ### UK
 * [Gov.UK](https://www.gov.uk/) - The best place to find government services and information Simpler, clearer, faster
