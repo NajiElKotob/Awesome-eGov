@@ -16,6 +16,7 @@
 * [Speedtest Global Index](https://www.speedtest.net/global-index) - Ranking mobile and fixed broadband speeds from around the world on a monthly basis.
 * [The Inclusive Development Index 2018](https://www.weforum.org/reports/the-inclusive-development-index-2018) - World Economic Forum
 * [Henley Passport Index](https://www.henleypassportindex.com/passport) - The Henley Passport Index is the original ranking of all the world’s passports according to the number of destinations their holders can access without a prior visa.
+* [Digital Quality of Life Index 2020](https://surfshark.com/dql2020) - surfshark.com
 
 -----
 
