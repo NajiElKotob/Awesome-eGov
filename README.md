@@ -34,8 +34,9 @@
 * [QoG Interactive Report](http://j.mp/QoG-NajiElKotob) - Naji El Kotob
 * [Visualizing Corruption Around the World](https://www.visualcapitalist.com/visualizing-corruption-around-the-world/) - Jeff Desjardins
 
-### Conferences
+### Conferences and Webinars
 * [eDem and eGov](https://edem-egov.org/) - International Conference on eDemocracy & eGovernment 
+* [How to avoid mistakes when developing E-Government services (from Russian Federation’s Experience)](https://www.youtube.com/watch?v=5BGqc_gCD4k) - TRA Virtual Academy
 
 ### References and Forums
 * [GovInsider](https://govinsider.asia) - govinsider.asia
