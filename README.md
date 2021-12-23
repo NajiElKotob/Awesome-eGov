@@ -19,6 +19,7 @@
 * [Network Readiness Index](https://networkreadinessindex.org/) - networkreadinessindex.org | Benchmarking the Future of the Network Economy
 * [Digital Quality of Life Index 2020](https://surfshark.com/dql2020) - surfshark.com
 * [Cost of living](https://www.mercer.com/) - mercer.com
+* [Visa Index](https://visaindex.com/) - visaindex.com
 
 
 -----
